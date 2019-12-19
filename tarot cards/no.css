@@ -1,0 +1,29 @@
+body{
+    font-family: fantasy;
+    margin-left: 30%;
+    width:110%;
+    background-image: url(images/exit.jpg);
+    background-size: cover;
+}
+h1{
+    font-size: 50px;
+    color:ghostwhite;
+    
+    
+}
+img{
+    margin-left: 5%;
+}
+p{
+    font-family: fantasy;
+    color: gainsboro;
+   margin-left: 5%;
+    
+    
+    
+    
+}
+
+
+
+

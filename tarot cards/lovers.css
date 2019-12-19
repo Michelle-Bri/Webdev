@@ -1,0 +1,32 @@
+body{
+    font-family: fantasy;
+    margin-left: 30%;
+    width:110%;
+    background-image: url(images/the-lovers.jpg);
+    background-size: cover;
+}
+h1{
+    font-size: 50px;
+    color:gainsboro;
+    text-align: center;
+    margin-right: 65%;
+}
+img{
+    margin-left: 5%;
+}
+p{
+    font-family: fantasy;
+    color: gainsboro;
+    text-align: center;
+    margin-right: 65%;
+ 
+    
+}
+
+
+
+
+
+
+
+
